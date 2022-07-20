@@ -56,7 +56,7 @@ header{
 	flex-direction: column;
 	justify-content: center;
 	align-items: center;
-	background-image: url('/images/background-gray.svg');
+	background-image: url('../../images/background-gray.svg');
 	background-repeat: no-repeat;
 	background-size: cover;
 	overflow: hidden;
@@ -282,12 +282,12 @@ header{
 
 .FB{
 	margin-right: 15px;
-	background-image: url('../../Robink_FrontEnd/images/FacebookBW.svg');
+	background-image: url('../../images/FacebookBW.svg');
 	transition: background-image 300ms;
 }
 
 .FB:hover{
-	background-image: url('../../Robink_FrontEnd/images/Facebook.svg');
+	background-image: url('../../images/Facebook.svg');
 	transition: background-image 300ms;
 }
 
@@ -298,17 +298,17 @@ header{
 }
 
 .INS:hover{
-	background-image: url('../../Robink_FrontEnd/images/Instagram.svg');
+	background-image: url('../../images/Instagram.svg');
 	transition: background-image 300ms;
 }
 
 .WA{
-	background-image: url('../../Robink_FrontEnd/images/WABW.svg');
+	background-image: url('../../images/WABW.svg');
 	transition: background-image 300ms;
 }
 
 .WA:hover{
-	background-image: url('../../Robink_FrontEnd/images/WA.svg');
+	background-image: url('../../images/WA.svg');
 	transition: background-image 300ms;
 }
 

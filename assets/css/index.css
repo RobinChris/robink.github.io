@@ -56,7 +56,7 @@ header{
 	flex-direction: column;
 	justify-content: center;
 	align-items: center;
-	background-image: url('../../Robink_FrontEnd/images/background-gray.svg');
+	background-image: url('images/background-gray.svg');
 	background-repeat: no-repeat;
 	background-size: cover;
 	overflow: hidden;

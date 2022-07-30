@@ -340,20 +340,16 @@ header{
 	display: flex;
 	flex-direction: column;
 	flex-wrap: wrap;
+	text-align: left;
 }
 
-.InputContainer label{
+.GeneralInputContainer label{
 	color: #A0A0A0;
 	margin-top: 10px;
 }
 
-.InputContainer{
-	display: flex;
-	flex-direction: column;
-	text-align: left;
-}
 
-.InputContainer input{
+.GeneralInputContainer input{
 	height: 40px;
 	padding: 3px 5px;
 	margin-top: 5px;
@@ -385,18 +381,18 @@ textarea{
 
 
 
-.InputContainer input::placeholder, textarea::placeholder{
+.GeneralInputContainer input::placeholder, textarea::placeholder{
 	color: #FFF;
 	font-weight: 200;
 	opacity: 0.2;
 }
 
-.InputContainer input:focus::-webkit-input-placeholder, .InputContainer textarea:focus::-webkit-input-placeholder{
+.GeneralInputContainer input:focus::-webkit-input-placeholder, .GeneralInputContainer textarea:focus::-webkit-input-placeholder{
     color: #111;
     opacity: 1;
 }
 
-.InputContainer input:focus, textarea:focus{
+.GeneralInputContainer input:focus, textarea:focus{
 	background-color: #A0A0A0;
 	transition: background-color 300ms !important;
 	color: #111;

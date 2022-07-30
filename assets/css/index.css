@@ -399,7 +399,9 @@ textarea{
 	color: #111;
 }
 
-
+.btnSubmit{
+	margin-top: 20px;
+}
 
 
 /*General*/

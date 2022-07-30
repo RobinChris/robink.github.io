@@ -111,9 +111,10 @@ header{
 }
 
 .Btns:hover, .Btns:focus{
-	background-color: #DEFF55;
+	background-color: #DEFF55 !important;
 	color: #000;
 	border:1px solid #DEFF55;
+	transition: background-color 300ms, color 300ms, border 300ms;
 }
 
 

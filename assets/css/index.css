@@ -108,13 +108,14 @@ header{
 	outline: none;
 	border-radius: none;
 	font-size: 20px !important;
+	transition: background-color 300ms, color 300ms, border 300ms !important;
 }
 
 .Btns:hover, .Btns:focus{
 	background-color: #DEFF55 !important;
 	color: #000;
 	border:1px solid #DEFF55;
-	transition: background-color 300ms, color 300ms, border 300ms;
+	transition: background-color 300ms, color 300ms, border 300ms !important;
 }
 
 

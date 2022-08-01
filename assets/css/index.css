@@ -191,7 +191,7 @@ header{
 }
 
 .WebContainer img{
-	height: inherit;
+	/*height: inherit;*/
 	display: block;
 }
 

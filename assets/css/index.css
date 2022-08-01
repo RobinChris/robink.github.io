@@ -438,6 +438,16 @@ textarea{
 	.ParphContainer p{
 		text-align: center;
 	}
+	
+	form{
+		padding-bottom: 27px;
+
+	}
+	
+	.btnSubmit{
+		margin: auto;
+	}
+	
 
 }
 

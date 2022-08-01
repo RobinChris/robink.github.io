@@ -401,7 +401,6 @@ textarea{
 
 .btnSubmit{
 	margin-top: 20px;
-	transition: background-color 300ms, color 300ms, border 300ms !important;
 }
 
 .btnSubmit:hover, .btnSubmit:focus{

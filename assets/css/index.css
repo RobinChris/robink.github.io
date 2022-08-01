@@ -375,7 +375,6 @@ textarea{
 	border-left: none;
 	background-color: transparent;
 	color: #A0A0A0;
-	transition: background-color 300ms !important;
 	outline: none;
 	pointer-events: cursor;
 }

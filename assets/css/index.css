@@ -310,6 +310,7 @@ header{
 }
 
 .WA{
+	margin-right: 15px;
 	background-image: url('../../images/WABW.svg');
 	transition: background-image 300ms;
 }

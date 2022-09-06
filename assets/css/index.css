@@ -39,7 +39,6 @@ header{
 	background-color: transparent !important;
 	border: none !important;
 	margin-left: 15px;
-	font-family: 'Josefin Slab';
 	font-weight: 400;
 }
 
@@ -162,9 +161,9 @@ header{
 }
 
 .Titles{
-	font-size: 30px;
+	font-size: 50px;
 	font-family: 'Cinzel';
-	font-weight: 600;
+	font-weight: 900;
 	color: #434343;
 }
 

@@ -28,7 +28,7 @@ header{
 
 
 .navbar-brand{
-	font-family: 'Cinzel';
+	font-family: 'Lobster';
 	font-size: 30px;
 	color: #A0A0A0 !important;
 }
@@ -39,6 +39,7 @@ header{
 	background-color: transparent !important;
 	border: none !important;
 	margin-left: 15px;
+	font-family: 'Cinzel';
 }
 
 .navlinks:hover, .navlinks:focus{

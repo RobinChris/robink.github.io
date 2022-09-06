@@ -34,13 +34,13 @@ header{
 }
 
 .navlinks{
-	color: #A0A0A0 !important;
+	color: #FFF !important;
 	box-shadow: none !important;
 	background-color: transparent !important;
 	border: none !important;
 	margin-left: 15px;
 	font-family: 'Cinzel';
-	font-weight: 400;
+	font-weight: 600;
 }
 
 .navlinks:hover, .navlinks:focus{

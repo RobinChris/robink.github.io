@@ -161,9 +161,9 @@ header{
 }
 
 .Titles{
-	font-size: 50px;
+	font-size: 30px !important;
 	font-family: 'Cinzel';
-	font-weight: 900;
+	font-weight: 600;
 	color: #434343;
 }
 
